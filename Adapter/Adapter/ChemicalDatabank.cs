@@ -1,4 +1,4 @@
-﻿using System.Data.Odbc;
+﻿
 
 namespace Adapter
 {
